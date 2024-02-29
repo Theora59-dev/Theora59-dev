@@ -1,6 +1,6 @@
 # Theora59
 
-## I'm a 16-year-old student from France with a passion for programming and computer tinkering.
+## I'm a young student from France with a passion for programming and computer tinkering.
 
 I have a solid grounding in programming, particularly in **C/C++ and Python**, with knowledge of the *QT (for Python), Pygame and OpenGL (SFML)* frameworks. I'm also very comfortable with **Linux**, in particular with **system administration**, using the **command line**, etc...
 I have good experience of *distributions based* on **Arch Linux and Debian**. My versatility in these areas enables me to carry out simple or more important technical tasks.
@@ -17,4 +17,4 @@ I have good experience of *distributions based* on **Arch Linux and Debian**. My
 - ⚡ Fun fact: The first time I touched the Linux command line, I was 13 and it was to convert a video into music with ffmpeg.
  
                                             
-                                                          **Thank you for looking at my profile**
+                                                          Thank you for looking at my profile
