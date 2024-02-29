@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-**Theora59-dev/Theora59-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 # Theora59
 
 ## I'm a 16-year-old student from France with a passion for programming and computer tinkering.
@@ -23,4 +17,4 @@ I have good experience of *distributions based* on **Arch Linux and Debian**. My
 - ⚡ Fun fact: The first time I touched the Linux command line, I was 13 and it was to convert a video into music with ffmpeg.
  
                                             
-                                              **Thank you for looking at my profile**
+                                                          **Thank you for looking at my profile**
