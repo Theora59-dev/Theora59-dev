@@ -16,5 +16,6 @@ I have good experience of *distributions based* on **Arch Linux and Debian**. My
 - 📫 How to reach me: By e-mail -> clem6kiruagon@gmx.fr
 - ⚡ Fun fact: The first time I touched the Linux command line, I was 13 and it was to convert a video into music with ffmpeg.
  
-                                            
-                                                          Thank you for looking at my profile
+---
+
+   - Thank you for looking at my profile
