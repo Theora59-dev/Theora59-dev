@@ -33,6 +33,8 @@ I have a solid grounding in programming, particularly in **Rust and Python**, wi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
+  <img src="https://actix.rs/img/logo.png" height="40" alt="actix logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tauri" height="40" alt="tauri logo"  />
