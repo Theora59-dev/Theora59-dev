@@ -54,6 +54,8 @@ I have a solid grounding in programming, particularly in **Rust and Python**, wi
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2929741" style='border:none;'></iframe>
+
 
 # 📊 GitHub Stats:
 
