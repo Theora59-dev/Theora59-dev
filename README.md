@@ -11,6 +11,7 @@ I have a solid grounding in programming, particularly in **Rust and Python**, wi
 
 # 💻 Tech Stack:
 <div align="left" align-items="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2929741" style='border:none;'></iframe>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
@@ -53,9 +54,6 @@ I have a solid grounding in programming, particularly in **Rust and Python**, wi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2929741" style='border:none;'></iframe>
-
 
 # 📊 GitHub Stats:
 
