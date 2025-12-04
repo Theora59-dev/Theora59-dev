@@ -1,5 +1,6 @@
 # 💫 About Me:
 I have a solid grounding in programming, particularly in **Rust and Python**, with knowledge of the *QT (for Python), Pygame* frameworks. I'm also very comfortable with **Linux**, in particular with **system administration**, using the **command line**, etc...<br>I have good experience of *distributions based* on **Arch Linux and Debian**. My versatility in these areas enables me to carry out simple or more important technical tasks.<br><br>I'm looking for projects to broaden my skills so if you have any tasks you'd like me to take on, relating to programming, or maintaining Linux systems, I'd be keen to get started with you.<br><br><br>- 🔭 I'm currently training my cybersecurity skills on tryhackme.<br>- 💬 Ask me about any project where I can help you<br>
+<br>- 🙊 I successfully passed the EJPT in August 2025.<br>
 
 ## Tryhackme:
 <img src="https://tryhackme-badges.s3.amazonaws.com/Theora.png" alt="Your Image Badge" />
@@ -53,10 +54,6 @@ I have a solid grounding in programming, particularly in **Rust and Python**, wi
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
 </div>
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Theora59-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
