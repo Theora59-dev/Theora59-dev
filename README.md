@@ -4,7 +4,9 @@ I have a solid grounding in programming, particularly in **Rust and Python**, wi
 - 🔭 I'm currently training my cybersecurity skills on tryhackme.<br>
 - 💬 Ask me about any project where I can help you<br>
 - 🙊 I successfully passed the EJPT in August 2025.<br>
-- 👀 I am currently focusing on understanding web vulnerabilities, but also on small embedded projects based on Arduino and ESP32..<br>
+- 👀 I am currently focusing on understanding web vulnerabilities, but also on small embedded projects based on Arduino and ESP32...<br>
+- You can check my blog [here](https://theora59-dev.github.io/blog/)
+
 
 ## Tryhackme:
 <img src="https://tryhackme-badges.s3.amazonaws.com/Theora.png" alt="Your Image Badge" />
