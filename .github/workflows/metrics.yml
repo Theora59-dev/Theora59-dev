@@ -20,6 +20,6 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
-          plugin_languages_ignored: html, css, tex, dockerfile, makefile, cmake, javascript
-          plugin_languages_threshold: 2%
+          plugin_languages_ignored: tex, javascript
+          plugin_languages_threshold: 0%
           commits_authoring: theora59-dev, theora59
