@@ -1,3 +1,6 @@
+[![FR](https://img.shields.io/badge/🇫🇷_Français_actif-0055A4?style=for-the-badge)](README.md)
+[![EN](https://img.shields.io/badge/🇬🇧_English-README_EN.md-000000?style=for-the-badge)](README_EN.md)
+
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                            ║
