@@ -1,16 +1,17 @@
 ```
-╔═════════════════════════════════════════════════════╗
-║                                                     ║
-║  ████████╗██╗  ██╗███████╗ ██████╗ ██████╗  █████╗  ║
-║  ╚══██╔══╝██║  ██║██╔════╝██╔═══██╗██╔══██╗██╔══██╗ ║
-║     ██║   ███████║█████╗  ██║   ██║██████╔╝███████║ ║
-║     ██║   ██╔══██║██╔══╝  ██║   ██║██╔══██╗██╔══██║ ║
-║     ██║   ██║  ██║███████╗╚██████╔╝██║  ██║██║  ██║ ║
-║     ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ║
-║                                                     ║
-║     Rust · Bas niveau · Cybersécurité · Embarqué    ║
-║                                                     ║
-╚═════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                            ║
+║       $$$$$$$$\ $$\   $$\ $$$$$$$$\  $$$$$$\  $$$$$$$\   $$$$$$\  $$$$$$$\   $$$$$$\       ║
+║       \__$$  __|$$ |  $$ |$$  _____|$$  __$$\ $$  __$$\ $$  __$$\ $$  ____| $$  __$$\      ║
+║         $$ |   $$ |  $$ |$$ |      $$ /  $$ |$$ |  $$ |$$ /  $$ |$$ |      $$ /  $$ |      ║
+║         $$ |   $$$$$$$$ |$$$$$\    $$ |  $$ |$$$$$$$  |$$$$$$$$ |$$$$$$$\  \$$$$$$$ |      ║
+║         $$ |   $$  __$$ |$$  __|   $$ |  $$ |$$  __$$< $$  __$$ |\_____$$\  \____$$ |      ║
+║         $$ |   $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$\   $$ |$$\   $$ |      ║
+║         $$ |   $$ |  $$ |$$$$$$$$\  $$$$$$  |$$ |  $$ |$$ |  $$ |\$$$$$$  |\$$$$$$  |      ║
+║         \__|   \__|  \__|\________| \______/ \__|  \__|\__|  \__| \______/  \______/       ║
+║                                                                                            ║
+║                                  Rust · Bas niveau · Cybersécurité                         ║                                                                
+╚════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ## 👨‍💻 À propos
@@ -42,7 +43,6 @@ Je conçois des applications performantes — du firmware no_std pour microcontr
 | **Backend** | Rocket, Actix, tokio, serde |
 | **Desktop** | Tauri v2, Dioxus, eframe/egui |
 | **Embarqué** | embedded-hal, no_std, esp-hal, avr-hal |
-| **Réseau** | TCP chiffré (AES-256-GCM), tokio |
 
 ### Python — Stack
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -52,7 +52,7 @@ Je conçois des applications performantes — du firmware no_std pour microcontr
 ### Cybersécurité
 ![eJPT](https://img.shields.io/badge/eJPT-Certified-005A9C?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Pentest](https://img.shields.io/badge/Pentest-Web%20%26%20Réseau-critical?style=for-the-badge)
-![TryHackMe - Top 5%](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ### Embarqué & Matériel
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
