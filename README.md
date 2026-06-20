@@ -91,8 +91,7 @@ Moteur 3D temps réel pour matrice LED Raspberry Pi — rasterisation logicielle
 
 ## 📊 Stats GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=theora59-dev&show_icons=true&theme=transparent&hide_border=true&count_private=true&text_color=434d58&icon_color=ff6b6b&title_color=ff6b6b)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theora59-dev&layout=compact&theme=transparent&hide_border=true&text_color=434d58&title_color=ff6b6b)
+![Metrics](/github-metrics.svg)
 
 ---
 
