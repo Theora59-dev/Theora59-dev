@@ -103,7 +103,7 @@ Real-time 3D engine for Raspberry Pi LED matrix — software rasterization with 
 [![Blog](https://img.shields.io/badge/Blog-FF6B6B?style=for-the-badge&logo=jekyll&logoColor=white)](https://theora59-dev.github.io/blog/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/theora59-dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/@theora59)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:theora59@proton.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:theora59@gmx.fr)
 
 ---
 
